@@ -1,6 +1,6 @@
 # Auto-Typer
 
-If you want to see how the program works and view the actual python download the source code folder \n
+If you want to see how the program works and view the actual python download the source code folder - 
 If you wan to use this program for typing then just download the .exe file 
 
 ## Features Include
