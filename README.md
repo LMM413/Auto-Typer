@@ -3,6 +3,8 @@
 If you want to see how the program works and view the actual python download the source code folder - 
 If you want to use this program for typing then just download the .exe file 
 
+To uninstall, all you need to do is delete the .exe file. The script and database used are fully contained into that .exe and nothing else is installed onto your system.
+
 ## Features Include
 - Start / stop via custom hotkey
 - Human speed typing with random speed assigned to blocks of letters along with more random speeds for each letter alone
