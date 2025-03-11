@@ -3,7 +3,7 @@
 If you want to see how the program works and view the actual python download the source code folder - 
 If you want to use this program for typing then just download the .exe file 
 
-To uninstall, all you need to do is delete the .exe file. The script and database used are fully contained into that .exe and nothing else is installed onto your system.
+**To uninstall**, all you need to do is delete the .exe file. The script and database used are fully contained into that .exe and nothing else is installed onto your system beides temp files when the software runs, these are deleted when it is closed. In the case of a crash or sudden closure it is possible these files are not removed, they should be deleted upon opening and closing the software again.
 
 ## Features Include
 - Start / stop via custom hotkey
