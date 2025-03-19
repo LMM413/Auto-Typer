@@ -1,16 +1,15 @@
 # Auto-Typer
 
-If you want to see how the program works and view the actual python download the source code folder
-
-If you want to use this program for typing then just download the .exe file 
-
 **To uninstall**, all you need to do is delete the .exe file. The script and database used are fully contained into that .exe and nothing else is installed onto your system beides temp files when the software runs, these are deleted when it is closed. In the case of a crash or sudden closure it is possible these files are not removed, they should be deleted upon opening and closing the software again.
 
 ## Features Include
 - Start / stop via custom hotkey
+- Estimated time to type and WPM
 - Human speed typing with random speed assigned to blocks of letters along with more random speeds for each letter alone
 - Dark themed UI made via tkinter
-- Controllable font size for UI
+- Controllable font size for entered text
+- Full control over all variables that affecr typing
+- 3 presets to mimic different typing styles
 - Random pauses at spaces
 - Random pauses at periods
 - Chance to "accidentally" hit a nearby key instead of the intended one before fixing the mistake (customizable)
@@ -25,7 +24,7 @@ W  X  Y  Z  1  2  3  4  5  5  6  7  8  9  0  -
 &  *  (  )  _  +  {  }  |  :  "  <  >  ?  ~ 
 space   enter
 
-This program is once again, meant to simulate a human typing, it is not meant to be very fast or type at a consistent pace.
+This program is once again, meant to simulate a human typing to some degree, not be instant and perfect.
 This repo will be updated with the newest version of the program whenever I have it ready.
 
 ## license
