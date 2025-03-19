@@ -8,7 +8,7 @@
 - Human speed typing with random speed assigned to blocks of letters along with more random speeds for each letter alone
 - Dark themed UI made via tkinter
 - Controllable font size for entered text
-- Full control over all variables that affecr typing
+- Full control over all variables that affect typing
 - 3 presets to mimic different typing styles
 - Random pauses at spaces
 - Random pauses at periods
