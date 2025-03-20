@@ -14,6 +14,8 @@
 - Random pauses at periods
 - Chance to "accidentally" hit a nearby key instead of the intended one before fixing the mistake (customizable)
 - Support for nearly all characters on a keyboard
+
+<img width="487" alt="{8B09969A-7DBF-4993-9BEA-D921F8EEAE79}" src="https://github.com/user-attachments/assets/e6a4b019-17ee-4381-a276-cc0e29dce2aa" />
   
 Full list includes:
 a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p
